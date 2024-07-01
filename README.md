@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @jass2422
-- 👀 I’m interested in sharing my knowledge wand also gaining
-- 🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on software engineering /developers 
-- 📫 you to reach me through mail.
+Hi, I'm Jasmeen Shaikh! 🤖
+
+I'm an enthusiast, passionate about building innovative solutions and exploring new technologies.
+My interests lie in machine learning, Data Science, Machine Learning Algorithms, Deep Learning, NLP, AWS, and Google Cloud. I'm also a GCDS.
+I'm always eager to learn, collaborate, and contribute to exciting projects.
+
+- Feel free to explore my repositories, and let's connect to create something amazing together! 💻"
+
 
 <!---
 jass2422/jass2422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
