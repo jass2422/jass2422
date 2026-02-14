@@ -1,13 +1,62 @@
-Hi, I'm Jasmeen Shaikh! 🤖
+# Hi, I'm Jasmeen Shaikh 👋  
 
-I'm an enthusiast, passionate about building innovative solutions and exploring new technologies.
-My interests lie in machine learning, Data Science, Machine Learning Algorithms, Deep Learning, NLP, AWS, and Google Cloud. I'm also a GCDS.
-I'm always eager to learn, collaborate, and contribute to exciting projects.
+🚀 Software Developer | AI Enthusiast | LLM & AI Agent Builder  
 
-- Feel free to explore my repositories, and let's connect to create something amazing together! 💻"
+I’m on a mission to design and build intelligent systems powered by Large Language Models and AI Agents across multiple domains.
 
+I don’t just study AI — I build it.
 
-<!---
-jass2422/jass2422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Focus Areas
+
+- 🤖 Large Language Models (LLMs)
+- 🧩 AI Agents & Autonomous Systems
+- 📊 Machine Learning & Deep Learning
+- 🗣️ Natural Language Processing (NLP)
+- ☁️ AWS & Google Cloud
+- 🔥 Full-Stack AI Applications
+
+---
+
+## 🌍 What I'm Building
+
+- Domain-specific AI agents  
+- Multi-agent systems  
+- AI-powered productivity tools  
+- Intelligent business automation systems  
+- End-to-end ML solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+Languages: Python | JavaScript | TypeScript  
+Frameworks: React | Node.js | Express  
+AI/ML: PyTorch | Scikit-learn | Transformers | LangChain  
+Cloud: AWS | Google Cloud  
+Database: MongoDB | Neo4j  
+
+---
+
+## 🎯 Vision
+
+To build scalable AI systems that:
+- Think
+- Learn
+- Automate
+- Assist
+- Create value across industries
+
+---
+
+## 🤝 Let’s Build the Future
+
+I’m always open to:
+- AI collaborations
+- Hackathons
+- Research projects
+- Startup ideas
+- Open-source contributions
+
+If you're building something bold in AI, let’s connect 🚀
